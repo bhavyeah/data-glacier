@@ -1,2 +1,1 @@
-# dataglacier_datascience_internship
-All my submitted work of my Data Science Internship at Data Glacier
+This is a repository of my Data Science Internship work at Data Glacier.
