@@ -1,0 +1,1 @@
+adding static folder files
